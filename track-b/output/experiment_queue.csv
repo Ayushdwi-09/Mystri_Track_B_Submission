@@ -1,0 +1,31 @@
+request_id,case_id,item,action,reason
+R001,C001,fault_photo,EXCLUDE,case closed or already scheduled
+R002,C002,fault_photo,EXCLUDE,case closed or already scheduled
+R003,C003,fault_photo,EXCLUDE,case closed or already scheduled
+R004,C004,fault_photo,EXCLUDE,case closed or already scheduled
+R005,C005,fault_photo,EXCLUDE,case closed or already scheduled
+R006,C006,fault_photo,EXCLUDE,case closed or already scheduled
+R007,C007,fault_photo,EXCLUDE,case closed or already scheduled
+R008,C008,fault_photo,EXCLUDE,case closed or already scheduled
+R009,C009,fault_photo,PROPOSE,"pending, follow-up allowed, item not received, >=48h"
+R010,C010,fault_photo,EXCLUDE,case closed or already scheduled
+R011,C011,fault_photo,EXCLUDE,case closed or already scheduled
+R012,C012,fault_photo,EXCLUDE,follow-up not allowed
+R013,C013,fault_photo,EXCLUDE,case closed or already scheduled
+R014,C014,fault_photo,EXCLUDE,case closed or already scheduled
+R015,C015,fault_photo,EXCLUDE,case closed or already scheduled
+R016,C016,fault_photo,EXCLUDE,less than 48 hours
+R017,C017,fault_photo,EXCLUDE,item already recorded as received
+R018,C018,fault_photo,EXCLUDE,item already recorded as received
+R019,C019,fault_photo,EXCLUDE,case closed or already scheduled
+R020,C020,fault_photo,EXCLUDE,case closed or already scheduled
+R021,C021,fault_photo,EXCLUDE,item already recorded as received
+R022,C022,fault_photo,REVIEW,missing request time
+R023,C023,fault_photo,EXCLUDE,item already recorded as received
+R024,C024,fault_photo,PROPOSE,"pending, follow-up allowed, item not received, >=48h"
+R025,C009,site_access,PROPOSE,"pending, follow-up allowed, item not received, >=48h"
+R026,C024,serial_number,PROPOSE,"pending, follow-up allowed, item not received, >=48h"
+R027,C017,quote_approval,EXCLUDE,outside selected missing-information workflow
+R028,C021,quote_approval,EXCLUDE,outside selected missing-information workflow
+R029,C023,quote_approval,EXCLUDE,outside selected missing-information workflow
+R030,C016,site_access,EXCLUDE,item already recorded as received

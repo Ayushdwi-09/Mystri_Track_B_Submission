@@ -1,0 +1,15 @@
+{
+  "snapshot": "2026-09-07T09:00:00+05:30",
+  "cases": 24,
+  "exported_event_rows": 128,
+  "unique_event_ids": 124,
+  "duplicate_event_rows_removed": 4,
+  "duplicate_logged_minutes_removed": 12.0,
+  "unique_logged_coordinator_minutes": 400.0,
+  "pending_requests_overall": 15,
+  "quote_approval_requests_out_of_scope": 3,
+  "pending_missing_information_requests": 12,
+  "safe_followup_proposals": 4,
+  "manual_reminder_events": 4,
+  "manual_reminder_minutes": 9.0
+}
