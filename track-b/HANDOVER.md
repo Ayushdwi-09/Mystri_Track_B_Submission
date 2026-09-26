@@ -42,3 +42,7 @@ AI-generated calculations were not used as evidence. Calculated outputs and clas
 ## Remaining uncertainty
 
 The sample cannot establish the owner's eight-hours-per-week estimate, customer response rate, financial value of recovered jobs, or complete coordinator effort. Those require a real two-week measurement. The recommended next step is therefore measurement before paid automation or custom build.
+
+## Time
+
+Total assessment work time: 3 hours 42 minutes, including 18 minutes of revision.
